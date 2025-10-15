@@ -14,8 +14,9 @@ Projeto DIO - Criando um Ebook com ChatGPT &amp; MidJourney
 
 ## ✨ Como foi feito ?
 
-- Tírulo e conteúdo gerado via chatgpt
+- Título e conteúdo gerado via chatgpt
 - Gemini para gerar capas
+- PowerPoint para organização do conteúdo
   
 
 ## 📚 Materiais
