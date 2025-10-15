@@ -6,7 +6,7 @@ Projeto DIO - Criando um Ebook com ChatGPT &amp; MidJourney
 # Projeto Ebook Gerado por I.A.s
 <p>
     <a 
-        href="https://github.com/yukiow55/prompts-recipe-to-create-a-ebook/blob/main/assets/Ebook%20-%20Godot%20Fighter%20Dom%C3%ADne%20o%20C%C3%B3digo%20Ven%C3%A7a%20o%20Jogo.pdf">
+        href="https://github.com/yukiow55/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20Godot%20Fighter%20Dom%C3%ADne%20o%20C%C3%B3digo%20Ven%C3%A7a%20o%20Jogo.pdf">
         Ebook
     </a>
 </p>
